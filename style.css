@@ -1,0 +1,22 @@
+body {
+    margin: 0; 
+    padding: 0 0;
+}
+
+.j1 { 
+        background-image: url(https://images.unsplash.com/photo-1615392030676-6c532fe0c302?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        color: white; 
+  }
+
+  .j2 {
+    padding-top: 0.5rem;
+    background-color: white;
+  }
+
+  hr {
+    color: white;
+    background-color: white;
+  }
